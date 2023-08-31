@@ -1,5 +1,5 @@
 # 1 Weather-App
-Weather-App: A simple interactive web application built with HTML, CSS, and JavaScript, to help tourists/travelers monitor the real time weather from all cities of the globe.
+Weather-App: A simple interactive web application built with HTML, CSS, and JavaScript, to help tourists/travelers monitor the real time weather from all cities of the globe.(City Name and Country Name must be inputed for easy search)
 # 2 Tech Stack: 
 # HTML .CSS .JavaScript
 # 3 Installation: Download codes and run for demo.
